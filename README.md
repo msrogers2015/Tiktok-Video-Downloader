@@ -121,21 +121,19 @@ First, you will need to export your data from tiktok. This will produce a json f
 </br>
 </br>
 Go to the Settings and Privacy menu
-<img src="img/step1.jpeg" alt="Profile">
+<img src="img/step1.jpeg" alt="Profile" width="645" height="1400">
 Click Account from the menu
-<img src="img/step2.jpeg" alt="Setting and Privacy Menu">
+<img src="img/step2.jpeg" alt="Setting and Privacy Menu" width="645" height="1400">
 Click "Download your data"
-<img src="img/step3.jpeg" alt="Account Menu">
+<img src="img/step3.jpeg" alt="Account Menu" width="645" height="1400">
 Change the "Select data to download" to custom and pick only your "Profile and post" to download.
 Change the "Select file format" to JSON then click the "Request Data" button.
-<img src="img/step4.jpeg" alt="Account Menu">
+<img src="img/step4.jpeg" alt="Data Menu" width="645" height="1400">
 Once done, you will be able to download a zip file with the required json file.
-<img src="img/step5.png" alt="Account Menu">
+<img src="img/step5.png" alt="Data Download" width="645" height="1400">
 
 Once you have your data, simply load the json file, select an output folder and click the download button.
-<video width="960" height="540" controls>
-  <source src="https://youtu.be/d_hq79rQKCk" type="video/mp4">
-</video>
+A video demo can be found on [YouTube](https://youtu.be/d_hq79rQKCk)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
